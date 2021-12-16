@@ -1,6 +1,5 @@
-{
-  "Wisata" : {
-    "data" : [ {
+[
+  {
       "deskripsi" : "Pulau Samosir merupakan salah satu pulau yang paling populer di Sumatera Utara. Lokasinya yang berada tepat di tengah Danau Toba menjadi daya tarik tersendiri bagi wisatawan. Ada banyak aktivitas seru yang bisa kamu lakukan di pulau vulkanik ini, mulai dari bertualang di Goa Marlakkop, menyaksikan pertunjukan tari Sigale-gale, berkeliling Museum Huta Bolon Simanindo, hingga menikmati keunikan Batu Parsidangan.Terdapat tiga jalur perairan Danau Toba yang bisa kamu pilih untuk menuju Pulau Samosir, yaitu melalui Pelabuhan Ajibata ke Pelabuhan Tomok, Tigaras menuju Simanindo, dan melalui Muara menuju Nainggolan. Khusus rute Muara– Nainggolan, hanya bisa kamu lalui pada hariSenin, Kamis, dan Sabtu. Umumnya, seluruh rute menggunakan akomodasi feri dengan kisaran harga tiket Rp90.000–Rp10.000",
       "gambar" : "https://drive.google.com/file/d/1LSfHSjJv1ZOmcMQcN9AeDx9nJTfu_xTr/view?usp=sharing",
       "id" : "1",
@@ -227,6 +226,6 @@
       "id" : "45",
       "jenis" : "Wisata Kuliner",
       "nama" : "Taman Nasional Gunung Leuser"
-    } ]
-  }
-}
+    }
+  ]
+  
